@@ -1,0 +1,25 @@
+{
+    "name": "Chartboost.Mediation.AdMob.IOS",
+    "rootNamespace": "Chartboost.Mediation.AdMob.IOS",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.AdMob",
+        "Chartboost.Mediation",
+        "Chartboost.Utilities.IOS"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
