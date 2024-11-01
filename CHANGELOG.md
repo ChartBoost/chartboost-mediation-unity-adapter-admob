@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.0.2 *(2024-10-09)*
+This version of the AdMob Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-admob:5.23.2+`
+  * iOS: `ChartboostMediationAdapterAdMob: ~> 5.11.6.0`
+
 ### Version 5.0.0 *(2024-08-08)*
 
 First version of the Chartboost Mediation Unity SDK - AdMob Adapter.
