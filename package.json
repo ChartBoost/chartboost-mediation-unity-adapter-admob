@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.admob",
-    "version": "5.0.5",
+    "version": "5.0.6",
     "displayName": "Chartboost Mediation Adapter - AdMob",
     "description": "The Chartboost Mediation Unity SDK Adapter for AdMob.",
     "unity": "2022.3",
