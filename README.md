@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - AdMob Adapter to your proje
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.admob": "5.2.3",
+    "com.chartboost.mediation.unity.adapter.admob": "5.2.4",
     ...
 },
 "scopedRegistries": [
