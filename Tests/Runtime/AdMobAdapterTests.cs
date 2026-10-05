@@ -7,12 +7,8 @@ using NUnit.Framework;
 
 namespace Chartboost.Tests
 {
-    internal class AdMobAdapterTests
+    internal class AdMobAdapterTests : DebugLogLevelFixture
     {
-        [SetUp]
-        public void SetUp()
-            => LogController.LoggingLevel = LogLevel.Debug;
-
         [Test]
         public void AdapterNativeVersion()
             => TestUtilities.TestStringGetter(() => AdMobAdapter.AdapterNativeVersion);
